@@ -9,6 +9,7 @@
                 <shipping_cost>10</shipping_cost>
                 <sallowspecific>0</sallowspecific>
                 <sort_order>15</sort_order>
+<!--                <model>I95Dev\CustomShipping\Model\Carrier</model>-->
             </customshipping>
         </carriers>
     </default>
